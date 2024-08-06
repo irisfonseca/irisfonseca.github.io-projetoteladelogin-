@@ -94,6 +94,7 @@ Grandes telas: acima de 1200px */
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
         padding: 0px;
         margin: auto;
+        
     }
     
     section#login {
@@ -121,6 +122,8 @@ Grandes telas: acima de 1200px */
     div#formulario > p {
         font-size: 1.2em;
     }
+
+    
 
     
 }
